@@ -1,11 +1,17 @@
 # Countries
 
 ## Introduction - the project's aim
-My project helps in arranging future tasks in a convenient and simple way
+
+My project displays country cards with basic information such as :
+* name
+* top level domain
+* capital
+* currencies
 
 ## Technologies
 * Java-Script
 * Ajax
+* jQuery
 * Bootstrap
 * HTML
 * CSS
