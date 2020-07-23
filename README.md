@@ -11,5 +11,5 @@ My project helps in arranging future tasks in a convenient and simple way
 * CSS
 
 ## Links
-[REST Countries] {https://restcountries.eu}
+[REST Countries](https://restcountries.eu)
 
